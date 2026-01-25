@@ -26,7 +26,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="right">
+<p align="center">
   <i>Profile Visitors: <img src="https://visitcount.itsvg.in/api?id=JKD-codes&icon=0&color=9" align="center" /></i>
 </p>
 
