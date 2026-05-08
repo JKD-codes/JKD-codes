@@ -152,6 +152,28 @@ Life Philosophy:
 <table>
 <tr>
 <td width="50%">
+## 📄 Resume Maker
+
+> Smart and responsive resume builder that helps users create professional resumes instantly.
+
+### ✨ Features
+
+* 🎨 Clean and modern UI
+* ⚡ Real-time resume preview
+* 📱 Fully responsive design
+* 🖨️ Download / print support
+* 🧩 Dynamic form-based editing
+* 🚀 Fast and lightweight performance
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### 💡 Highlights
+
+* Built completely from scratch without frameworks
+* Focused on simplicity and user experience
+* Optimized for fast loading and smooth interaction
 
 ## 🕵️ AI Image Detector
 
