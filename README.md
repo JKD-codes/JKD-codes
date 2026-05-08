@@ -256,15 +256,6 @@ Life Philosophy:
 
 ---
 
-# 🌌 Profile Aesthetic Extras
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling" />
-
-</div>
-
----
 
 <div align="center">
 
