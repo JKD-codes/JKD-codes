@@ -135,11 +135,12 @@ Life Philosophy:
 ---
 
 
+
 # 👾 Pacman Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/JKD-codes/JKD-codes/output/pacman-contribution-graph-dark.svg">
 
 </div>
 
