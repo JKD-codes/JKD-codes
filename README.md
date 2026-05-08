@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=for-the-badge&color=00C2FF" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=JKD-codes&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/JKD-codes?logo=github&style=for-the-badge&color=00C2FF" />
+<img src="https://img.shields.io/github/stars/JKD-codes?style=for-the-badge&color=yellow" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-red?style=for-the-badge" />
 
 </div>
@@ -51,19 +51,19 @@ Life Philosophy:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/JKD-codes">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/jagrat-mogaveera-a67404379/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jagratjkd@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://YOUR_PORTFOLIO_LINK">
+<a href="https://jagratmogaveera.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -105,7 +105,7 @@ Life Philosophy:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=JKD-codes&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -115,11 +115,11 @@ Life Philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JKD-codes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JKD-codes&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKD-codes&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -129,7 +129,7 @@ Life Philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JKD-codes&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -153,30 +153,29 @@ Life Philosophy:
 <tr>
 <td width="50%">
 
-## 🤖 AI Resume Analyzer
+## 🕵️ AI Image Detector
 
-✨ ATS score generation
-✨ AI feedback system
-✨ Resume keyword optimization
-✨ Beautiful dashboard UI
+> AI-powered web application that detects whether an image is AI-generated or real.
 
-### 🛠️ Stack
+### ✨ Features
 
-React • Node.js • MongoDB • Gemini API
+* 🤖 AI image analysis
+* 🖼️ Image upload support
+* ⚡ Instant prediction results
+* 🎯 User-friendly interface
+* 📱 Responsive design
+* 🔍 Detection confidence output
 
-</td>
-<td width="50%">
+### 🛠️ Tech Stack
 
-## ⚡ AI Code Debugger
+`React` `TypeScript` `AI API`
 
-✨ Detects coding typos
-✨ AI-powered suggestions
-✨ Fast debugging workflow
-✨ Automation integrated
+### 💡 Highlights
 
-### 🛠️ Stack
+* Explores practical AI detection workflows
+* Designed for fast image processing
+* Focused on real-world AI verification use cases
 
-JavaScript • Node.js • Gemini • n8n
 
 </td>
 </tr>
@@ -224,14 +223,6 @@ JavaScript • Node.js • Gemini • n8n
 
 ---
 
-# 🎵 Spotify / Music Vibes (Optional)
-
-```html
-Add your Spotify now-playing widget here later for extra aesthetics.
-```
-
----
-
 # 🧠 Fun Fact
 
 <div align="center">
@@ -249,39 +240,6 @@ Add your Spotify now-playing widget here later for extra aesthetics.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling" />
 
 </div>
-
----
-
-# 🔥 FINAL ELITE TOUCHES
-
-## ✅ Things You MUST Do
-
-* Replace YOUR_USERNAME everywhere
-* Pin only your BEST repositories
-* Add deployed project links
-* Add screenshots/GIF demos in projects
-* Keep consistent dark theme aesthetics
-* Add proper repo descriptions
-
-## 🚀 BEST GIF SOURCES
-
-| Website                                  | Use                  |
-| ---------------------------------------- | -------------------- |
-| [https://tenor.com](https://tenor.com)   | Funny dev GIFs       |
-| [https://giphy.com](https://giphy.com)   | Animated coding GIFs |
-| [https://icons8.com](https://icons8.com) | Animated icons       |
-
-## ⚡ BEST README TOOLS
-
-| Tool                         | Purpose              |
-| ---------------------------- | -------------------- |
-| github-profile-trophy        | Trophy showcase      |
-| github-readme-stats          | GitHub stats         |
-| streak-stats                 | Contribution streak  |
-| readme-typing-svg            | Animated typing text |
-| github-readme-activity-graph | Activity graph       |
-| readme-jokes                 | Random jokes         |
-| skillicons.dev               | Tech icons           |
 
 ---
 
