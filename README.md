@@ -152,6 +152,7 @@ Life Philosophy:
 <table>
 <tr>
 <td width="50%">
+  
 ## 📄 Resume Maker
 
 > Smart and responsive resume builder that helps users create professional resumes instantly.
