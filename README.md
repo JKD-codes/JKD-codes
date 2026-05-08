@@ -1,4 +1,3 @@
-# 🚀 ELITE GitHub Profile README — Jagrat
 
 <div align="center">
 
