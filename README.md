@@ -110,11 +110,11 @@ Life Philosophy:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JKD-codes&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=JKD-codes&theme=tokyonight&hide_border=true" />
 
 </div>
 
