@@ -134,13 +134,15 @@ Life Philosophy:
 
 ---
 
-# 🐍 Contribution Snake Animation
+
+# 👾 Eating contribution like Pacman
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg" />
 
 </div>
+
 
 ---
 
