@@ -1,7 +1,16 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Hey+There!+I'm+Jagrat+%F0%9F%91%8B;AI+Developer+%7C+Full+Stack+Engineer;Building+Cool+Stuff+With+Code+%F0%9F%9A%80;Turning+Ideas+Into+Reality" />
+<h1>Hey there! I'm Jagrat 👋</h1>
+
+<h3>AI Developer • Full Stack Engineer • Building Cool Stuff 🚀</h3>
+
+<img 
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJnODVxajhlejN3N2M5Zm8wbzBrNTFpeHU4amFib2g2czcwYmlyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXr3j6YAClXFfZABn5/giphy.gif" 
+width="280"
+/>
+
+</div>
 
 <br/>
 
