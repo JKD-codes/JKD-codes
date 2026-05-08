@@ -135,13 +135,15 @@ Life Philosophy:
 ---
 
 
-# 👾 Eating contribution like Pacman
+```html
+# 👾 Pacman Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg" />
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+```
 
 
 ---
