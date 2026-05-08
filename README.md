@@ -135,14 +135,13 @@ Life Philosophy:
 ---
 
 
-# 👾 Pacman Contribution Graph
+# 👾 Pacman Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg">
 
 </div>
-
 
 ---
 
