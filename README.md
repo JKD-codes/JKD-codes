@@ -135,7 +135,6 @@ Life Philosophy:
 ---
 
 
-```html
 # 👾 Pacman Contribution Graph
 
 <div align="center">
@@ -143,7 +142,6 @@ Life Philosophy:
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-```
 
 
 ---
