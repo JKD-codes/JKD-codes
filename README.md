@@ -130,9 +130,6 @@ Life Philosophy:
 ---
 
 
-
-# 👾 Pacman Contribution Animation
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/JKD-codes/JKD-codes/output/pacman-contribution-graph-dark.svg">
