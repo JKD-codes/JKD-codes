@@ -99,11 +99,9 @@ Life Philosophy:
 
 ---
 
-<h1 align="center">🏆 GitHub Trophies</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JKD-codes&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
+# 🏆 GitHub Trophies 
+<div align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=JKD-codes&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /> </div>
 
 ---
 
