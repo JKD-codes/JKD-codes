@@ -101,7 +101,7 @@ Life Philosophy:
 
 # 🏆 GitHub Trophies 
 <div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=JKD-codes&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /> </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=JKD-codes&theme=onedark&no-frame=true&margin-w=15" /> </div>
 
 ---
 
