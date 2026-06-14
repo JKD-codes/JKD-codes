@@ -165,6 +165,28 @@ Life Philosophy:
 * Safely uncovers critical bounty-worthy bugs like exposed `.env` files
 * Enforces strict 2024 web perimeter security standards
 
+## 👁️‍🗨️ SafeLens AI Health Guard
+
+> An intelligent, local-first web app that scans food, skincare, medications, and menus to provide instant, personalized health warnings.
+
+### ✨ Features
+
+* 📱 Live 1080p camera scanning and on-device text extraction
+* 🧠 Smart offline Heuristic Engine for instant chemical analysis
+* ☁️ Deep AI fallback using Groq's Llama-3-70b model
+* 🩺 Personalized medical profiles (Allergies, Conditions, Skin Type)
+* ⚡ Sub-second response times with zero API limits
+* 🥗 Multi-domain support (Food, Skincare, Meds, Menus)
+
+### 🛠️ Tech Stack
+
+`React` `TailwindCSS` `Groq API` `Tesseract.js`
+
+### 💡 Highlights
+
+* 100% client-side privacy with absolutely no image uploads
+* Hybrid AI architecture blending edge computing and cloud AI
+* High-performance Progressive Web App optimized for mobile
 
 ## 🕵️ AI Image Detector
 
