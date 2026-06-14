@@ -24,7 +24,6 @@
 ```yaml
 Name: Jagrat
 Role: AI + Full Stack Developer
-Location: India 🇮🇳
 Passion: Building real-world impactful products
 Specialization:
   - AI Applications
