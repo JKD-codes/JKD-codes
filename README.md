@@ -142,28 +142,29 @@ Life Philosophy:
 <tr>
 <td width="50%">
   
-## 📄 Resume Maker
+## 🛡️ CyberShield Executive Ops
 
-> Smart and responsive resume builder that helps users create professional resumes instantly.
+> State-of-the-art web application security scanner powered by a Hybrid AI-Heuristic Engine for deep perimeter reconnaissance.
 
 ### ✨ Features
 
-* 🎨 Clean and modern UI
-* ⚡ Real-time resume preview
-* 📱 Fully responsive design
-* 🖨️ Download / print support
-* 🧩 Dynamic form-based editing
-* 🚀 Fast and lightweight performance
+* 🧠 Hybrid AI-Heuristic vulnerability detection
+* 🎯 Deep HTTP Header Analysis (CSP, HSTS)
+* 🕵️ Active Sensitive File Probing (`.env`, `.git`)
+* 🛡️ Smart Soft-404 false positive elimination
+* 🌌 Glassmorphism "Cyber Ops" animated UI
+* ⚡ Real-time scanning and threat intelligence
 
 ### 🛠️ Tech Stack
 
-`HTML` `CSS` `JavaScript`
+`React` `FastAPI` `Python` `AI/ML`
 
 ### 💡 Highlights
 
-* Built completely from scratch without frameworks
-* Focused on simplicity and user experience
-* Optimized for fast loading and smooth interaction
+* Built a custom Python heuristic engine replacing standard LLM calls for speed
+* Safely uncovers critical bounty-worthy bugs like exposed `.env` files
+* Enforces strict 2024 web perimeter security standards
+
 
 ## 🕵️ AI Image Detector
 
