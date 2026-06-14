@@ -188,6 +188,29 @@ Life Philosophy:
 * Hybrid AI architecture blending edge computing and cloud AI
 * High-performance Progressive Web App optimized for mobile
 
+## 🕵️‍♂️ Mr. Detective
+
+> An immersive, AI-powered neo-noir murder mystery simulator with dynamic storylines and unscripted suspect interrogations.
+
+### ✨ Features
+
+* 🧠 Procedurally generated cases using AI (Llama 3.1 / Gemini)
+* 🗣️ Dynamic chat-based suspect interrogations
+* 📌 Interactive drag-and-drop investigation board (Corkboard)
+* 💓 Real-time biometric HUD based on suspect stress levels
+* 🎙️ Text-to-Speech voices and ambient synthetic rain
+* 🤝 Co-op Walkie-Talkie simulator mode
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express` `MongoDB` `Generative AI APIs`
+
+### 💡 Highlights
+
+* Integrates Large Language Models for unscripted, branching detective narratives
+* Simulates realistic suspect behaviors, emotional shifts, and physical reactions
+* Features a custom-built Web Audio engine for highly immersive noir atmospheres
+
 ## 🕵️ AI Image Detector
 
 > AI-powered web application that detects whether an image is AI-generated or real.
