@@ -108,7 +108,7 @@ Life Philosophy:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JKD-codes&theme=tokyonight&hide_border=true" />
+[<img src="https://streak-stats.demolab.com?user=JKD-codes&theme=tokyonight&hide_border=true" />](https://streak-stats.demolab.com?user=JKD-codes)
 
 </div>
 
