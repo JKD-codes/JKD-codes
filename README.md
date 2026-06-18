@@ -108,7 +108,7 @@ Life Philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JKD-codes&show_icons=true&theme=tokyonight" />
+[<img src="https://github-readme-stats.vercel.app/api?username=JKD-codes&show_icons=true&theme=tokyonight" />](https://streak-stats.demolab.com?user=JKD-codes)
 
 </div>
 
