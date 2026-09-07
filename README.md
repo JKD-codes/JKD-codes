@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Hey+There!+I'm+Jagrat+%F0%9F%91%8B;AI+Developer+%7C+Full+Stack+Engineer;Building+Cool+Stuff+With+Code+%F0%9F%9A%80;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Hey+There!+I'm+Jagrat+%F0%9F%91%8B;AI+Developer+%7C+Full+Stack+Engineer;Building+Cool+Stuff+With+Code+%F0%9F%9A%80;Turning+Ideas+Into+Reality" />
 <br/><br/>
 
 
