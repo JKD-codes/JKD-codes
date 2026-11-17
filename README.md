@@ -1,298 +1,97 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Hey+There!+I'm+Jagrat+%F0%9F%91%8B;AI+Developer+%7C+Full+Stack+Engineer;Building+Cool+Stuff+With+Code+%F0%9F%9A%80;Turning+Ideas+Into+Reality" />
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f7ff&height=160&section=header&text=Jagrat%20Mogaveera&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer&descAlignY=60&descSize=16" alt="Jagrat Mogaveera" />
 
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Building+AI-powered+products+%F0%9F%A4%96;Full+stack+with+React+%2B+Node+%2B+Python;Turning+ideas+into+shipped+software+%F0%9F%9A%80" alt="Typing intro" />
 
-
-<img src="https://komarev.com/ghpvc/?username=JKD-codes&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/JKD-codes?logo=github&style=for-the-badge&color=00C2FF" />
-<img src="https://img.shields.io/github/stars/JKD-codes?style=for-the-badge&color=yellow" />
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-red?style=for-the-badge" />
+<a href="https://jagratmogaveera.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/jagrat-mogaveera-a67404379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jagratjkd@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=JKD-codes&label=Views&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/JKD-codes?label=Followers&style=flat-square&color=00C2FF" alt="Followers" />
 
 </div>
 
----
+## 👋 About Me
 
-# 💫 About Me
+I'm **Jagrat**, an AI + full stack developer who likes building things people actually use, from security scanners to health tools to AI-driven games.
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+- 🔭 **Building:** AI applications, automation systems, modern web UIs
+- 🌱 **Learning:** cloud computing, scalable backends, AI system architecture
+- 🏆 **Hackathon winner**, with a habit of shipping fast and iterating
+- 🔁 **Philosophy:** Build → Learn → Improve → Repeat
 
-```yaml
-Name: Jagrat
-Role: AI + Full Stack Developer
-Passion: Building real-world impactful products
-Specialization:
-  - AI Applications
-  - Full Stack Development
-  - Automation Systems
-  - Modern UI/UX
+## 🛠️ Tech Stack
 
-Currently Learning:
-  - Cloud Computing
-  - Advanced Backend Systems
-  - Scalable AI Architectures
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&perline=7" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,mongodb,firebase&perline=8" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,vercel,netlify,vscode,postman&perline=7" alt="Tools" />
+</p>
 
-Life Philosophy:
-  - Build > Learn > Improve > Repeat
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
-<br/><br/>
+## 🚀 Featured Projects
 
----
+### 🛡️ [CyberShield Executive Ops](https://github.com/JKD-codes/Cyber_security)
+Web application security scanner powered by a hybrid AI + heuristic engine.
+- Deep HTTP header analysis (CSP, HSTS) and active sensitive-file probing (`.env`, `.git`)
+- Soft-404 detection to cut false positives; custom Python engine instead of slow LLM calls
+- **Stack:** `React` `FastAPI` `Python`
 
-# 🌐 Connect With Me
+### 👁️ [SafeLens AI Health Guard](https://github.com/JKD-codes/SafeLens_AI)
+Local-first PWA that scans food, skincare, medicines and menus for personalized health warnings.
+- On-device OCR with Tesseract.js, offline heuristics, Llama-3-70B (Groq) fallback
+- Personal medical profiles; no images ever leave the device
+- **Stack:** `React` `TailwindCSS` `Groq API` `Tesseract.js`
+
+### 🕵️ Mr. Detective
+AI-generated neo-noir murder mysteries with unscripted suspect interrogations.
+- Procedurally generated cases (Llama 3.1 / Gemini), drag-and-drop evidence corkboard
+- Live stress-level HUD, text-to-speech voices, custom Web Audio ambience, co-op mode
+- **Stack:** `React` `Node.js` `Express` `MongoDB`
+
+### 🖼️ AI Image Detector
+Upload an image and get a verdict, with confidence, on whether it is AI-generated or real.
+- **Stack:** `React` `TypeScript` `AI API`
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/JKD-codes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="100%" src="https://streak-stats.demolab.com?user=JKD-codes&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<a href="https://www.linkedin.com/in/jagrat-mogaveera-a67404379/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JKD-codes&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
-<a href="mailto:jagratjkd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://jagratmogaveera.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JKD-codes/JKD-codes/output/pacman-contribution-graph-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/JKD-codes/JKD-codes/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+</picture>
 
 </div>
 
----
+## 🏅 Achievements
 
-# ⚔️ Tech Stack
+| Achievement | Result |
+| --- | --- |
+| 🥇 Hackathon | 1st Place |
+| 🧠 Science Exhibition | 1st Place |
+| 💡 Ideathon | Finalist, Innovation Award |
+| ✍️ Essay Writing | Gold Medal |
+| 🎤 Elocution | 2nd Place |
 
-<div align="center">
+## 🎯 Current Goals
 
-## 🚀 Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,html,css" />
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-
-## ⚡ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-## 🤖 AI / Automation
-
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-
-## ☁️ Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies 
-<div align="center"> 
-  <img src="https://github-trophies.vercel.app/?username=JKD-codes&theme=onedark" /> </div>
-
----
-
-# 📊 GitHub Streak
+- Ship production-grade AI products
+- Master scalable backend systems and cloud infrastructure
+- Contribute to open source
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JKD-codes&theme=tokyonight&hide_border=true&cache_bust=1)](https://git.io/streak-stats)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JKD-codes&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JKD-codes/JKD-codes/output/pacman-contribution-graph-dark.svg">
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-  
-## 🛡️ CyberShield Executive Ops
-
-> State-of-the-art web application security scanner powered by a Hybrid AI-Heuristic Engine for deep perimeter reconnaissance.
-
-### ✨ Features
-
-* 🧠 Hybrid AI-Heuristic vulnerability detection
-* 🎯 Deep HTTP Header Analysis (CSP, HSTS)
-* 🕵️ Active Sensitive File Probing (`.env`, `.git`)
-* 🛡️ Smart Soft-404 false positive elimination
-* 🌌 Glassmorphism "Cyber Ops" animated UI
-* ⚡ Real-time scanning and threat intelligence
-
-### 🛠️ Tech Stack
-
-`React` `FastAPI` `Python` `AI/ML`
-
-### 💡 Highlights
-
-* Built a custom Python heuristic engine replacing standard LLM calls for speed
-* Safely uncovers critical bounty-worthy bugs like exposed `.env` files
-* Enforces strict 2024 web perimeter security standards
-
-## 👁️‍🗨️ SafeLens AI Health Guard
-
-> An intelligent, local-first web app that scans food, skincare, medications, and menus to provide instant, personalized health warnings.
-
-### ✨ Features
-
-* 📱 Live 1080p camera scanning and on-device text extraction
-* 🧠 Smart offline Heuristic Engine for instant chemical analysis
-* ☁️ Deep AI fallback using Groq's Llama-3-70b model
-* 🩺 Personalized medical profiles (Allergies, Conditions, Skin Type)
-* ⚡ Sub-second response times with zero API limits
-* 🥗 Multi-domain support (Food, Skincare, Meds, Menus)
-
-### 🛠️ Tech Stack
-
-`React` `TailwindCSS` `Groq API` `Tesseract.js`
-
-### 💡 Highlights
-
-* 100% client-side privacy with absolutely no image uploads
-* Hybrid AI architecture blending edge computing and cloud AI
-* High-performance Progressive Web App optimized for mobile
-
-## 🕵️‍♂️ Mr. Detective
-
-> An immersive, AI-powered neo-noir murder mystery simulator with dynamic storylines and unscripted suspect interrogations.
-
-### ✨ Features
-
-* 🧠 Procedurally generated cases using AI (Llama 3.1 / Gemini)
-* 🗣️ Dynamic chat-based suspect interrogations
-* 📌 Interactive drag-and-drop investigation board (Corkboard)
-* 💓 Real-time biometric HUD based on suspect stress levels
-* 🎙️ Text-to-Speech voices and ambient synthetic rain
-* 🤝 Co-op Walkie-Talkie simulator mode
-
-### 🛠️ Tech Stack
-
-`React` `Node.js` `Express` `MongoDB` `Generative AI APIs`
-
-### 💡 Highlights
-
-* Integrates Large Language Models for unscripted, branching detective narratives
-* Simulates realistic suspect behaviors, emotional shifts, and physical reactions
-* Features a custom-built Web Audio engine for highly immersive noir atmospheres
-
-## 🕵️ AI Image Detector
-
-> AI-powered web application that detects whether an image is AI-generated or real.
-
-### ✨ Features
-
-* 🤖 AI image analysis
-* 🖼️ Image upload support
-* ⚡ Instant prediction results
-* 🎯 User-friendly interface
-* 📱 Responsive design
-* 🔍 Detection confidence output
-
-### 🛠️ Tech Stack
-
-`React` `TypeScript` `AI API`
-
-### 💡 Highlights
-
-* Explores practical AI detection workflows
-* Designed for fast image processing
-* Focused on real-world AI verification use cases
-
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🏅 Achievements
-
-<div align="center">
-
-| 🏆 Achievement               | 🎯 Result        |
-| ---------------------------- | ---------------- |
-| 🥇 Hackathon Winner          | 1st Place        |
-| 🧠 Science Exhibition        | 1st Place        |
-| 🎤 Elocution Competition     | 2nd Place        |
-| 💡 Ideathon Finalist         | Innovation Award |
-| ✍️ Essay Writing Competition | Gold Medal       |
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-```diff
-+ Build production-level AI products
-+ Master scalable backend systems
-+ Learn advanced cloud infrastructure
-+ Contribute to open source
-+ Land elite software engineering opportunities
-```
-
----
-
-# 💭 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-# 🧠 Fun Fact
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-
-</div>
-
----
-
-
-<div align="center">
-
-# 🚀 "Code Hard. Build Smart. Stay Curious."
-
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:302b63,100:0f0c29&height=100&section=footer" alt="" />
 
 </div>
